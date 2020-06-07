@@ -122,6 +122,10 @@ h1,h2,h3,h4 {
     color: #fafafa;
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 /*------------------Hover.css-----------------*/
 
 a.hvr-sweep-to-bottom:before {
